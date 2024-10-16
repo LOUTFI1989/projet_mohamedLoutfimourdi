@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c30e325-f7ab-43b4-833b-445c95f232d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Tomcat Server.Tomcat 10.1.24.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/loutf/Desktop/Informatique/S4/A18 depoiement/projet_mourdiMohamedLoutfi/target/projet_mourdiMohamedLoutfi-1.0-SNAPSHOT.war",
+    "last_opened_file_path": "C:/Users/loutf/Desktop/Informatique/S4/A18 depoiement/projet_mourdiMohamedLoutfi/target/projet_mourdiMohamedLoutfi-1.0-SNAPSHOT/WEB-INF/classes/edu/bdeb/a10/projet_mourdimohamedloutfi",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +60,11 @@
         <file path="$PROJECT_DIR$/target/projet_mourdiMohamedLoutfi-1.0-SNAPSHOT.war">
           <settings>
             <option name="CONTEXT_PATH" value="/projet_mourdiMohamedLoutfi_1_0_SNAPSHOT_war" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/target/projet_mourdiMohamedLoutfi-1.0-SNAPSHOT/WEB-INF/classes/edu/bdeb/a10/projet_mourdimohamedloutfi">
+          <settings>
+            <option name="CONTEXT_PATH" value="/projet_mourdimohamedloutfi" />
           </settings>
         </file>
       </deployment>
@@ -159,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729084449215</updated>
       <workItem from="1729084450253" duration="883000" />
-      <workItem from="1729088739114" duration="3398000" />
+      <workItem from="1729088739114" duration="3697000" />
     </task>
     <servers />
   </component>
